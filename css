@@ -1,0 +1,5 @@
+button {
+  width: fit-content;
+}
+<button style="background-color: #FFFFFF; border: 2px solid #000000; color: #000000; padding: 10px 20px; font-size: 16px; font-weight: bold; cursor: pointer;">Click me</button>
+
